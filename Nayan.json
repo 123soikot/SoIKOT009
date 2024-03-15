@@ -6,18 +6,18 @@
   "language": "en",
   "notification": true,
   "approval": false,
-  "BOTNAME": "NAYAN-BOT",
+  "BOTNAME": "Friya",
   "PREFIX": "/",
   "OPERATOR": [
-    "100014896964436",
+    "100072320790038",
     "100000959749712"
   ],
   "ADMINBOT": [
-    "100014896964436",
+    "100072320790038",
     "100000959749712"
   ],
   "OWNER": ["100000959749712"], 
-  "APPROVED": [],
+  "APPROVED": [100072320790038],
   "disabledcmds": [
   ],
   "disabledevents": [],
